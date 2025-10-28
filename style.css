@@ -1,0 +1,67 @@
+body{background-image: url(img/background.jpg);
+    background-size: contain;
+    background-attachment: ;
+    margin: 0;
+    padding: 0;
+}
+
+.form{background-color: rgba(255, 255, 255, 0.5);
+      display: inline-block;
+      padding: 20px;
+      position: relative;
+      left: 50px;
+      bottom: 400px;
+}
+
+.FB{background-color: #1877f2;
+    border: none;
+    color: white;
+    margin-left: 120px;
+    padding: 8px;
+    padding-right: 50px;
+    padding-left: 60px;}
+
+.couple{width: ;
+        height: auto;
+        display: inline-block;}
+
+.account{background-color: #fa1c8b;
+        border: none;
+        color: white;
+        padding: 10px;
+        position: relative;
+        left: 300px;}
+
+.login{margin-left: 85%;
+       margin-bottom: px;
+       display: inline-block;
+}
+
+.logo{margin-left: 20px;
+       margin-top: 20px;
+       display: inline;}
+    
+.header{background-color:white}
+
+#language{position: relative;
+top: -30px;}
+
+#signin{position: relative;
+    top: -30px;
+    background-color: #fa1c8b;
+    border: none;
+    border-radius: 5px;
+    padding-left: ;
+    padding-right: ;}
+    
+.year{visibility: visible;}
+.birthday{padding-left:19px;}
+
+.newmember{display: flex;
+    align-items: center;
+    justify-content: center;}
+
+.newmember hr {width: 130px;
+    margin: 0 10px;}
+
+    
